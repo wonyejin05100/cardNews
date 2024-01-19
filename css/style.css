@@ -32,6 +32,8 @@ body {
   top: 0px;
 }
 .text {
+  position: absolute;
+  left: 180px;
   display: flex;
   flex-direction: row;
   gap: 144px;
